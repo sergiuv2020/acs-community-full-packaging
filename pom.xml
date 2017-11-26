@@ -6,7 +6,7 @@
         <version>6</version>
     </parent>
     <artifactId>full-community-packaging</artifactId>
-    <version>6.0.1-SNAPSHOT</version>
+    <version>6.0.1_feature_REPO-2908-jod-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Alfresco Content Services Community Full Packaging</name>
 
@@ -19,7 +19,7 @@
 
     <properties>
         <!-- Community Packaging version -->
-        <dependency.acs-community-packaging.version>6.0.0-ea</dependency.acs-community-packaging.version>
+        <dependency.acs-community-packaging.version>6.0.1_feature_REPO-2908-jod-1</dependency.acs-community-packaging.version>
 
         <!-- Alfresco Share version -->
         <alfresco.share.version>5.2.f</alfresco.share.version>
